@@ -1,0 +1,15 @@
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\bin\Debug\net6.0\Exapmle001.exe
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\bin\Debug\net6.0\Exapmle001.deps.json
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\bin\Debug\net6.0\Exapmle001.runtimeconfig.json
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\bin\Debug\net6.0\Exapmle001.dll
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\bin\Debug\net6.0\Exapmle001.pdb
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\obj\Debug\net6.0\Exapmle001.csproj.AssemblyReference.cache
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\obj\Debug\net6.0\Exapmle001.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\obj\Debug\net6.0\Exapmle001.AssemblyInfoInputs.cache
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\obj\Debug\net6.0\Exapmle001.AssemblyInfo.cs
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\obj\Debug\net6.0\Exapmle001.csproj.CoreCompileInputs.cache
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\obj\Debug\net6.0\Exapmle001.dll
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\obj\Debug\net6.0\refint\Exapmle001.dll
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\obj\Debug\net6.0\Exapmle001.pdb
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\obj\Debug\net6.0\Exapmle001.genruntimeconfig.cache
+E:\Учеба\GB\Git\git_C#_DZ_5\Exapmle001\obj\Debug\net6.0\ref\Exapmle001.dll
